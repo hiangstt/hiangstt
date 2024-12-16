@@ -5,13 +5,13 @@
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=3000&color=8A2BE2&center=true&vCenter=true&lines=;Data+Scientist+Hian+Cardoso;Brazillian+24yo+ADS;Be+Welcome!+:%29" alt="Typing SVG" />
 </p>
-
+<img class="output" src="https://github-readme-streak-stats.herokuapp.com/?user=hiangstt&amp;theme=dark&amp;hide_border=false" alt="github streak">
 ---
 
 <p align="center">
-  ![hiangstt's Stats](https://github-readme-stats.vercel.app/api?username=hiangstt&theme=dark&show_icons=true&hide_border=false&count_private=true)
-  ![hiangstt's Streak](https://github-readme-streak-stats.herokuapp.com/?user=hiangstt&theme=dark&hide_border=false)
-  ![hiangstt's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=hiangstt&theme=dark&show_icons=true&hide_border=false&layout=compact)
+  <img class="output" src="https://github-readme-stats.vercel.app/api?username=hiangstt&amp;theme=dark&amp;show_icons=true&amp;hide_border=false&amp;count_private=true" alt="github stats">
+  <img class="output" src="https://github-readme-streak-stats.herokuapp.com/?user=hiangstt&amp;theme=dark&amp;hide_border=false" alt="github streak">
+  <img class="output" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hiangstt&theme=dark&show_icons=true&hide_border=false&layout=compact)">
 </p>
 
 
